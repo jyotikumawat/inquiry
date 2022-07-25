@@ -1,0 +1,38 @@
+.edit{
+    color: #fff;
+    text-decoration: none;
+    background: blue;
+    padding: 3px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 14px;
+    border-radius: 3px;
+}
+.delete{
+    color: #fff;
+    text-decoration: none;
+    background: red;
+    padding: 3px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 14px;
+    border-radius: 3px;
+}
+.reply{
+    color: #fff;
+    text-decoration: none;
+    background: green;
+    padding: 3px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 14px;
+    border-radius: 3px;
+}
+.edit:hover, .delete:hover, .reply:hover{
+    color: #fff;
+}
+.inquiryTable-heading span{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+

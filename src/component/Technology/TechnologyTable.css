@@ -1,0 +1,33 @@
+
+.technology-Table-heading span{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+.technology-table-start{
+
+    margin-left:35px;
+    margin-right:35px;
+    padding-bottom: 60px;
+}
+.technology-table-cls{
+    border-radius: 10px;
+}
+.technology-table-sub-cls{
+    border-radius: 10px;
+    margin-left: 78px;
+ 
+}
+.technology-tag-table-cls .technology-table-tr .technology-table-td{
+    border-right: 1px solid #ccc;
+}
+.form-check-input[type=checkbox] {
+    border: 1px solid #ccc !important;
+    border-radius: 3px !important;
+}
+
+.technology-table-class{
+    overflow: auto;
+    max-height: 250px;
+}
+
+

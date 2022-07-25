@@ -1,0 +1,13 @@
+
+.EmployeeTable-heading span{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+.employee-table .employee-table-cls .employee-table-tr td{
+    font-size: 13px;
+    font-weight: 500;
+}
+.employee-table .employee-add-col-cls{
+   width: 96.666667% !important;
+}
+

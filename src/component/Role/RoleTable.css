@@ -1,0 +1,41 @@
+.inquiry-role-Table-heading span{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.role-table-tr .role-table-td{
+    padding-left: 60px;
+
+}
+
+.role-table-start{
+
+    margin-left:35px;
+    margin-right:35px;
+    padding-bottom: 60px;
+}
+.role-technology-cls{
+    border-radius: 10px;
+    height: 215px;
+}
+.role-technology-sub-cls{
+    border-radius: 10px; 
+    margin-left: 60px;
+
+ 
+}
+.role-table-cls .role-table-tr .role-table-td{
+    border-right: 1px solid #ccc;
+}
+.form-check-input[type=checkbox] {
+    border: 1px solid #ccc !important;
+    border-radius: 3px !important;
+}
+
+.role-class{
+    overflow: auto;
+    max-height:230px;
+}
+
+
+

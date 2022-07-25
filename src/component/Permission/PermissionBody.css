@@ -1,0 +1,16 @@
+.inquiry-permission-heading span{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.permission-row{
+    margin-left:0px !important;
+    margin-right: 0px !important;
+}
+.permission-col{
+    border-radius: 10px ;
+}
+.permission-col table tr td{
+    font-size: 14px;
+    font-weight: bold;
+}

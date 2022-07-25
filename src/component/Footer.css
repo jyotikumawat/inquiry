@@ -1,0 +1,36 @@
+.footer{
+   
+        padding-left: 20px;
+        background-color: #fff;
+        box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 75%);
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-right: 20px;
+        display: flex;
+        justify-content: space-between;
+
+}
+.footer .copyright p{
+    color: #818ea3;
+    font-weight: 500;
+    margin-top: 15px;
+}
+.footer .nav-bar ul{
+    display: flex;
+    list-style-type: none;
+}
+.footer .nav-bar ul li{
+    color: blue;
+    font-size: 15px;
+    margin-right: 28px;
+    margin-top: 15px;
+}
+.footer .nav-bar ul li:hover
+{
+    color:#0056ba;
+    cursor: pointer;
+}
+.footer .nav-bar
+{
+    margin-left: -35px;
+}

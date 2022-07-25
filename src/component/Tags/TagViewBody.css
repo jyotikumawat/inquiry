@@ -1,0 +1,25 @@
+
+  .tag-heading-post-cls{
+    padding: 30px 23px 30px 23px;
+  }
+
+  .tag-heading-post-cls span{
+    font-size: 11px;
+    letter-spacing: 2px;
+  }
+  .tag-heading-post-cls h4
+  {
+    color:#3D5170;
+    margin-bottom: -6px;
+    
+  }
+ 
+  .tag-div p b, .tag-div .tag-sub-div p b{
+      padding-right:10px;
+      color:#3D5170;
+  }
+ 
+  .view-tag-row{
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+  }

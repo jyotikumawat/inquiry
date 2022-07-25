@@ -1,0 +1,106 @@
+
+
+.employees-add{
+    background-color:#F5F6F8;
+    padding: 30px 40px 20px 40px;
+}
+.employee-heading span
+{
+    color: #828789;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.employee-heading h3
+{
+    color:#3D5170;
+    font-size: 1.625rem;
+}
+.employee-left-div{
+
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+    border-radius:10px;
+    background-color:#fff;
+}
+
+.employee-left-div .img-cls{
+    
+    display: flex;
+    justify-content: center;
+
+}
+.employee-left-div .img-cls img
+{
+    width: 44%;
+}
+
+
+.employee-left-div h4
+{
+    color:#3D5170;
+}
+
+.employee-left-div span
+{ 
+    font-size: 15px;
+    font-weight: 500;
+}
+.text-muted {
+    color: #868e96!important;
+}
+.btn.btn-pill {
+    border-radius: 50px !important;
+}
+.employee-left-div button{
+    font-size: 11px;
+}
+
+.progress-wrapper {
+    position: relative;
+    color: #5a6169;
+}
+.progress{
+    height: 5px !important;
+}
+.heading-section strong{
+    color: #868e96!important;
+    padding-bottom: 10px;
+}
+.heading-section span{
+    color: #5a6169;
+    font-weight: 100;
+    font-size: 11px;
+}
+.description h6{
+    color: #868e96!important;  
+    font-size: 16px;
+}
+.col-md-7 {
+    flex: 0 0 auto;
+    width: 63.333333% !important;
+}
+.employee-right-div{
+
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+    border-radius:10px;
+    background-color:#fff;
+    margin-left: 28px;
+}
+.employee-right-div h4{
+    border-bottom: 1px solid #ccc;
+    padding-left: 15px !important;
+}
+.employee-right-div form{
+ padding:15px !important;
+}
+
+.employee-right-div form input::placeholder{
+    font-weight: 100;
+    font-size: 14px;
+}
+.employee-right-div form .btn-cls button{
+    font-size: 12px;
+}
+
+

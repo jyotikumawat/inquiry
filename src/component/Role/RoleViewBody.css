@@ -1,0 +1,26 @@
+
+  .role-heading-post-cls{
+    padding: 30px 23px 30px 23px;
+  }
+
+  .role-heading-post-cls span{
+    font-size: 11px;
+    letter-spacing: 2px;
+  }
+  .role-heading-post-cls h4
+  {
+    color:#3D5170;
+    margin-bottom: -6px;
+    
+  }
+ 
+  .role-div p b{
+      padding-right:10px;
+      color:#3D5170;
+  }
+ 
+  .view-role-row{
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      padding-bottom: 189px;
+  }

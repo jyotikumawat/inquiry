@@ -1,0 +1,64 @@
+.Main{
+    display: flex;
+    width: 100%;
+    height:100vh;
+   
+  }
+  .Main .left{
+    width:17% !important;
+  
+  
+  }
+  .header{
+    position:sticky;
+  }
+  .footer{
+    position:sticky;
+  }
+  
+  
+  .Main .right {
+    width:83% !important;
+    height: 100vh;
+    
+  }
+  .body-section{
+    overflow-x: hidden;
+    background-color: #F2F3F5;
+  }
+
+  
+
+  .heading-post-cls{
+    padding: 30px 23px 30px 23px;
+  }
+
+  .heading-post-cls span{
+    font-size: 11px;
+    letter-spacing: 2px;
+  }
+  .heading-post-cls h4
+  {
+    color:#3D5170;
+    margin-bottom: -6px;
+    
+  }
+ 
+  .border-div p b, .border-div .description p b{
+      padding-right:10px;
+      color:#3D5170;
+  }
+  .reply-form-class label{
+    color:#3D5170;  
+  }
+   .list-type select{
+    
+    width:93%;
+  }
+  .list-type form .btn-status
+  {
+    font-size: 12px;
+    margin-right: 11px;
+  }
+
+ 

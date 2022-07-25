@@ -1,0 +1,33 @@
+
+.inquiry-tags-Table-heading span{
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+.tags-table-start{
+
+    margin-left:35px;
+    margin-right:35px;
+    padding-bottom: 60px;
+}
+.technology-cls{
+    border-radius: 10px;
+}
+.technology-sub-cls{
+    border-radius: 10px;
+    margin-left: 78px;
+ 
+}
+.tag-table-cls .tag-table-tr .tag-table-td{
+    border-right: 1px solid #ccc;
+}
+.form-check-input[type=checkbox] {
+    border: 1px solid #ccc !important;
+    border-radius: 3px !important;
+}
+
+.tags-classess{
+    overflow: auto;
+    max-height: 250px;
+}
+
+
